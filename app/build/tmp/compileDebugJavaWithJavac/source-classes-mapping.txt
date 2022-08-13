@@ -1,0 +1,2 @@
+com/example/calculator_app/BuildConfig.java
+ com.example.calculator_app.BuildConfig

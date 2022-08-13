@@ -10,7 +10,7 @@ import java.text.DecimalFormat
 
 class MainActivity : AppCompatActivity() {
 
-    var isNewOp = true
+    var  isNewOp = true
     var oldNumber = ""
     var op = "+"
 
